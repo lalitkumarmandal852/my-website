@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><bookmarks-codewithlalit></bookmarks-codewithlalit></title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    hello baby
+    <script src="script.js"></script>
+<h1>my bookmark</h1>
+<img src="nice pic.jpeg" width="250" height="300"></img>
+
+</body>
+</html>
